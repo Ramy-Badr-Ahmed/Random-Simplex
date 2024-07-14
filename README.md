@@ -1,6 +1,6 @@
-![MATLAB](https://img.shields.io/badge/MATLAB-%23D00000.svg?style=plastic&logo=mathworks&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=plastic&logo=fortran&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23D00000.svg?style=plastic&logo=mathworks&logoColor=white)   ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=plastic&logo=fortran&logoColor=white)
 
-![GitHub top language](https://img.shields.io/github/languages/top/Ramy-Badr-Ahmed/random-simplex) ![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/random-simplex)
+![GitHub](https://img.shields.io/github/license/Ramy-Badr-Ahmed/random-simplex)
 
 # Random Simplex Matrix
 
