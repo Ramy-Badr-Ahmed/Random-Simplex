@@ -61,7 +61,7 @@ grid on;
 
 figure;
 tri = delaunay(y(:,1), y(:,2));
-trisurf(tri, y(:,1), y(:,2), y(:,3), 'FaceColor', 'cyan', 'EdgeColor', 'none', 'FaceAlpha', 0.8);
+trisurf(tri, y(:,1), y(:,2), y(:,3), 'FaceColor', 'none', 'EdgeColor', 'k', 'FaceAlpha', 0.1);
 title('2D Projection of Simplex Samples');
 xlabel('t1');
 ylabel('t2');

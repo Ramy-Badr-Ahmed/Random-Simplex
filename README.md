@@ -58,6 +58,10 @@ This notation ensures that each vector vv lies on the (n-1)-dimensional simplex.
 
    > Showcases an application of simplex sampling for sampling from a multivariate normal distribution.
 
+3. `VoronoiDiagram.m`
+
+   > Visualise the Voronoi diagram of random points on a 2-dimensional simplex, divides regions based on proximity.
+
 
 ### Example Usage
 
