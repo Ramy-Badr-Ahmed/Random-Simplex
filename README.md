@@ -8,7 +8,11 @@
 
 This repository contains a function that utilises the Dirichlet distribution method to generate points on the `(n−1)`-dimensional simplex. The `randomSimplexMatrix.m` generates `m x n` matrices where each row is a random sample from the `(n−1)`-dimensional simplex, i.e., it produces vectors where each element is a non-negative number and the sum of all elements in each vector is 1.
 
-### Methodology
+### About
+
+[Mathematica Link](https://reference.wolfram.com/language/ref/Simplex.html)
+
+## Methodology
 
 1. **Generation of K Unit-Exponential Distributed Random Draws**:
     - In each row (sample), the function generates K uniform random numbers `y_i` from the open interval `(0,1]`.
@@ -24,7 +28,7 @@ This repository contains a function that utilises the Dirichlet distribution met
     - Returns a matrix, where each row is a vector on the `(n-1)`-dimensional simplex.
 
 
-### Some Applications
+## Some Applications
 
 #### Stability Analysis
 
@@ -46,7 +50,7 @@ This repository contains a function that utilises the Dirichlet distribution met
 
     > Model/simulate nonlinear systems to study chaos, where initial conditions or parameters are sampled from a simplex.
 
-### Additional Scripts
+## Additional Scripts
 
 1. `simplexSpace.m`
 
@@ -61,7 +65,7 @@ This repository contains a function that utilises the Dirichlet distribution met
    > Visualise the Voronoi diagram of random points on a 2-dimensional simplex, divides regions based on proximity.
 
 
-### Example Usage
+## Example Usage
 
 ```matlab
 n = 100;  % Number of columns (dimensionality of simplex)
