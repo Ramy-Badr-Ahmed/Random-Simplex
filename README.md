@@ -8,8 +8,6 @@
 
 This repository contains a function that utilises the Dirichlet distribution method to generate points on the `(n−1)`-dimensional simplex. The `randomSimplexMatrix.m` generates `m x n` matrices where each row is a random sample from the `(n−1)`-dimensional simplex, i.e., it produces vectors where each element is a non-negative number and the sum of all elements in each vector is 1.
 
-This notation ensures that each vector vv lies on the (n-1)-dimensional simplex.
-
 ### Methodology
 
 1. **Generation of K Unit-Exponential Distributed Random Draws**:
