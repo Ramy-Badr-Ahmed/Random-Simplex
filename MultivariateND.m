@@ -1,7 +1,7 @@
 % Sampling from a Multivariate Normal Distribution Using Simplex Sampling
 
-mu = [1; 2; 3];               % Mean vector example
-Sigma = [1, 0.5, 0.3;         % Covariance matrix example
+mu = [1; 2; 3];               % Mean vector example (consider your own values)
+Sigma = [1, 0.5, 0.3;         % Covariance matrix example (consider your own values)
          0.5, 2, -0.1;
          0.3, -0.1, 0.5];
 
