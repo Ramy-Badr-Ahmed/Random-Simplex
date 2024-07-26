@@ -34,7 +34,7 @@ This repository contains a function that utilises the Dirichlet distribution met
 
 - Polynomial Stability/Stability of discrete-time control systems: 
 
-    > Use simplex sampling to generate coefficients for polynomials and analyze their stability by checking if all roots lie within the unit circle.
+    > Use simplex sampling to generate coefficients for polynomials and analyse their stability by checking if all roots lie within the unit circle.
 
 - Lyapunov Functions: 
 
@@ -44,7 +44,7 @@ This repository contains a function that utilises the Dirichlet distribution met
 
 - Parameter Space Exploration:
 
-    > Investigate the behavior of dynamical systems under different parameter regimes by sampling parameters from a simplex. This helps in identifying bifurcation points where system behavior changes qualitatively.
+    > Investigate the behavior of dynamical systems under different parameter regimes by sampling parameters from a simplex. Identify bifurcation points where system behavior changes qualitatively.
 
 - Nonlinear Dynamics: 
 
